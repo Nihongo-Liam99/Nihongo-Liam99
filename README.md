@@ -1,16 +1,33 @@
-## Hi there 👋
+## Hi, I'm Liam 👋
 
-<!--
-**Nihongo-Liam99/Nihongo-Liam99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Linguistics major at the University of North Texas (UNT), concentrating in Computational Linguistics with minors in Computer Science and Japanese. I'm interested in natural language processing, foreign languages, information technology, and the intersection of linguistics and computer science.
 
-Here are some ideas to get you started:
+### 🎓 Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- B.A. in Linguistics — University of North Texas
+- Concentration: Computational Linguistics
+- Minors: Computer Science and Japanese
+
+### 💻 Interests
+
+- Computational Linguistics
+- Natural Language Processing (NLP)
+- Computer Science
+- Programming
+- Linguistics
+- Foriegn Languages
+
+### 🛠️ Currently Learning
+
+- Data Structures & Algorithms
+- Python
+- JavaScript
+- NLP and computational methods for language
+
+### 🌏 Languages
+
+- English
+- Japanese
+- Chinese (Mandarin)
+- Spanish
+- French
